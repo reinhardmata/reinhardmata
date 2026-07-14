@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am a Computational Biologist and researcher with experience in multi-source data management, biostatistical analysis, and quality control. My work focuses on building reproducible workflows and ensuring data integrity.
+
+
+
+### 💻 Tech Stack & Expertise
+* **Languages & Environments:** R, Bash (HPC Clusters), Markdown
+* **Data Analytics:** Multivariate Statistics, Predictive Modeling, Data Cleansing, & Data Visualization
+
+📬 **Connect with me:** 
+[LinkedIn](https://linkedin.com/in/rein-e-mata) | reinhardmata@gmail.com
 <!--
 **reinhardmata/reinhardmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
